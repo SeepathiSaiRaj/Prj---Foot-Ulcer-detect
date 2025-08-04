@@ -1,0 +1,9 @@
+Python
+
+Flask (for UI)
+
+OpenCV – For image preprocessing and enhancement
+
+Matplotlib & Seaborn (for data visualization)
+
+TensorFlow / Keras – For building and training the deep learning model for image classification
